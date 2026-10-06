@@ -1,10 +1,8 @@
 {
   "payload": {
     "version": 1,
-    "generatedAt": "2026-10-06T12:10:15.728Z",
-    "disabledCards": [
-      "1eab842ea77028cf63c6ab823612e0b5443455d0d0ba8c9c1789156814781c34"
-    ]
+    "generatedAt": "2026-10-06T12:11:43.758Z",
+    "disabledCards": []
   },
-  "signature": "2QGpiUodBZdkdC-ffrQyQyRd8BrDLZZgUWFTu_TrSVZSUegqZsJafUPVllP2_a1vbI7XgIH0AQBsCO_v3mceDg"
+  "signature": "sAzEmGbZKB5g255okyX2iZe39kGCogAgWsQOuK2o5wFyYTkdloUEdGjNrzoQIUuFFr2Y6woND8qooeFEJsmyCg"
 }
